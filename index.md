@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-[my page 1-1](doctest/cat1/sub1/page1-1.md)
+[my page 1-1](cat1/sub1/page1-1)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
